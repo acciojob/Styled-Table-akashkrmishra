@@ -1,1 +1,18 @@
 /* your code */
+table{
+/* 	display:flex; */
+	
+	border-radius:10px;
+	
+}
+table,td{
+	border:1px solid black;
+	width:100px;
+	height:30px;
+	margin:inl
+}
+thead{
+	background-color:blue;
+	
+}
+
