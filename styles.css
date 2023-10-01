@@ -1,18 +1,15 @@
-/* your code */
 table{
-/* 	display:flex; */
-	
+	width:100%;
 	border-radius:10px;
-	
-}
-table,td{
-	border:1px solid black;
-	width:100px;
-	height:30px;
-	margin:inl
+	text-style:italic
 }
 thead{
-	background-color:blue;
-	
+	background:#215A8E;
 }
-
+#head{
+	color:white;
+	text-align:center;
+}
+#dark{
+	background:lightgray;
+}
